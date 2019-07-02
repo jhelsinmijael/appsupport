@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ImageCardView">
+        <attr format="reference" name="icv_src"/>
+        <attr format="dimension" name="icv_padding"/>
+    </declare-styleable>
+    <declare-styleable name="ProgressButton">
+        <attr name="progress_text" format="string" />
+        <attr name="progress_text_color" format="color" />
+        <attr format="dimension" name="progress_with"/>
+        <attr format="dimension" name="progress_height"/>
+    </declare-styleable>
+</resources>

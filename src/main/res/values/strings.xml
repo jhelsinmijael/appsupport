@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSupport</string>
+    <string name="debe_instalar_waze">No tiene instalado Waze. ¿Desea instalarlo?</string>
+    <string name="si_ir_play_store">Si, ir a Play Store</string>
+    <string name="debe_instalar_google_maps">No tiene instalado Google Maps. ¿Desea instalarlo?</string>
+    <string name="camera">Cámara</string>
+    <string name="gallery">Galeria</string>
+
+</resources>
